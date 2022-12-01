@@ -1,0 +1,100 @@
+{
+  "books": [
+    {
+      "id": 0,
+      "title": "sit sint",
+      "author": "Randall Richardson",
+      "price": "$276.92",
+      "picture": "../assets/0.png",
+      "genre": "Historical Fiction"
+    },
+    {
+      "id": 1,
+      "title": "nostrud reprehenderit",
+      "author": "Roach Farmer",
+      "price": "$326.39",
+      "picture": "../assets/1.png",
+      "genre": "Adventure"
+    },
+    {
+      "id": 2,
+      "title": "ipsum ad",
+      "author": "Rena Ray",
+      "price": "$230.32",
+      "picture": "../assets/2.png",
+      "genre": "Fantasy"
+    },
+    {
+      "id": 3,
+      "title": "culpa anim",
+      "author": "Maryanne Carver",
+      "price": "$116.87",
+      "picture": "../assets/3.png",
+      "genre": "Mystery"
+    },
+    {
+      "id": 4,
+      "title": "esse irure",
+      "author": "Harrison Petty",
+      "price": "$253.04",
+      "picture": "../assets/4.png",
+      "genre": "Humour"
+    },
+    {
+      "id": 5,
+      "title": "dolor labore",
+      "author": "Staci Lancaster",
+      "price": "$404.77",
+      "picture": "../assets/5.png",
+      "genre": "Scientific Fiction"
+    },
+    {
+      "id": 6,
+      "title": "deserunt sint",
+      "author": "Alejandra Ferguson",
+      "price": "$152.09",
+      "picture": "../assets/6.png",
+      "genre": "Thriller"
+    },
+    {
+      "id": 7,
+      "title": "ad consequat",
+      "author": "Tabitha Spence",
+      "price": "$156.80",
+      "picture": "../assets/7.png",
+      "genre": "Crime"
+    },
+    {
+      "id": 8,
+      "title": "dolor occaecat",
+      "author": "Kirkland Chavez",
+      "price": "$163.96",
+      "picture": "../assets/8.png",
+      "genre": "Fantasy"
+    },
+    {
+      "id": 9,
+      "title": "cillum pariatur",
+      "author": "Zelma Dodson",
+      "price": "$386.41",
+      "picture": "../assets/9.png",
+      "genre": "Thriller"
+    },
+    {
+      "id": 10,
+      "title": "culpa amet",
+      "author": "Short Leach",
+      "price": "$257.85",
+      "picture": "../assets/10.png",
+      "genre": "Scientific Fiction"
+    },
+    {
+      "id": 11,
+      "title": "ea froel",
+      "author": "Johnson Miranda",
+      "price": "$430.59",
+      "picture": "../assets/11.png",
+      "genre": "Fiction"
+    }
+  ]
+}
