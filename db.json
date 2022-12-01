@@ -97,7 +97,5 @@
       "genre": "Fiction"
     }
   ],
-  "users": [
-    {"name": "blab" }
-  ]
+  "users": []
 }
